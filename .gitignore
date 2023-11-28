@@ -1,0 +1,6 @@
+venv/Include
+venv/Lib
+venv/Scripts
+venv/share
+venv/pip-selfcheck.json
+venv/pyvenv.cfg
